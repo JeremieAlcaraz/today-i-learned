@@ -6,8 +6,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 This repository was inspired by the amazing work of:
 
-- [Simon Willison](https://github.com/simonw/til) - for demonstrating the power of learning in public
-- [Josh Branchaud](https://github.com/jbranchaud/til) - for showing how to maintain a high-quality TIL collection with excellent organization and clear, actionable titles
+- [Josh Branchaud](https://github.com/jbranchaud/til) - for the original TIL idea and showing how to maintain a high-quality collection with excellent organization and clear, actionable titles
+- [Simon Willison](https://github.com/simonw/til) - who spotted jbranchaud's TIL on Hacker News and demonstrated the power of learning in public
 
 ## Sources
 
