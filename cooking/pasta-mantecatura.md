@@ -24,10 +24,6 @@ graph TB
     E --> F[🔥 Stir vigorously 2 min]
     F --> G[✨ Magic: Starch + Sauce = Creamy]
     G --> H[🍽️ Perfect pasta!]
-
-    style A fill:#e1f5ff
-    style G fill:#fff4e1
-    style H fill:#e8f5e9
 ```
 
 The magic? The starch from the pasta mixes with the sauce and creates that perfect creamy texture, without cream! The pasta absorbs the flavors instead of just salted water.
