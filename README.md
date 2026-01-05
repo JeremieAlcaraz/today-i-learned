@@ -13,4 +13,4 @@ This repository was inspired by the amazing work of:
 
 <https://github.com/simonw/til?tab=readme-ov-file>
 
-<https://github.com/jbranchaud/til?tab=readme-ov-file#mac>
+<https://github.com/jbranchaud/til?tab=readme-ov-file>
